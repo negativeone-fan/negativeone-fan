@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hello World!
 
 <!--
 **negativeone-fan/negativeone-fan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
